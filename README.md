@@ -1,1 +1,1 @@
-# -Stethoscope-AI
+# Stethoscope-AI
